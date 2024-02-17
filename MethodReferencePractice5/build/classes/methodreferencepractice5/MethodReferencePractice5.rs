@@ -1,0 +1,2 @@
+methodreferencepractice5.myLambda
+methodreferencepractice5.MethodReferencePractice5

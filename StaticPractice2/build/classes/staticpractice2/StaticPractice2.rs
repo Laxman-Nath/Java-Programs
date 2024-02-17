@@ -1,0 +1,2 @@
+staticpractice2.StaticPractice2
+staticpractice2.Test

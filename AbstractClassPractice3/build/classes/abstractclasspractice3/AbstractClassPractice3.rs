@@ -1,0 +1,3 @@
+abstractclasspractice3.KFC
+abstractclasspractice3.MyKFC
+abstractclasspractice3.AbstractClassPractice3

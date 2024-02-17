@@ -1,0 +1,2 @@
+exceptionhandpractice10.ExceptionHandPractice10
+exceptionhandpractice10.NegativeDimensionException

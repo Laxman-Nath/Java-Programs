@@ -1,0 +1,3 @@
+consinheritancepractice3.Rectangle
+consinheritancepractice3.Cuboid
+consinheritancepractice3.ConsInheritancePractice3

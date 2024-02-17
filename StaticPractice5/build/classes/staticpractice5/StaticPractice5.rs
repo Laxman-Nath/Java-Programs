@@ -1,0 +1,3 @@
+staticpractice5.Customer$StaticPractice5
+staticpractice5.Customer
+staticpractice5.StaticPractice5

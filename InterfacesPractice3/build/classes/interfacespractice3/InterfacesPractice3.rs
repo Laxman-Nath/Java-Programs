@@ -1,0 +1,11 @@
+interfacespractice3.Customer
+interfacespractice3.Store
+interfacespractice3.store
+interfacespractice3.Member
+interfacespractice3.store$InterfacesPractice3
+interfacespractice3.InterfacesPractice3
+interfacespractice3.Store$InterfacesPractice3
+interfacespractice3.store$customer
+interfacespractice3.customer
+interfacespractice3.Store$Customer
+interfacespractice3.member

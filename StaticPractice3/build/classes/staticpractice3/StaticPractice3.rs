@@ -1,0 +1,2 @@
+staticpractice3.StaticPractice3
+staticpractice3.Student

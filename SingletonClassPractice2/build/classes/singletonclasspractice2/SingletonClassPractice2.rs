@@ -1,0 +1,2 @@
+singletonclasspractice2.SingletonClassPractice2
+singletonclasspractice2.coffeeMachine

@@ -1,0 +1,3 @@
+simulation2.chisquare
+simulation2.Simulation2
+simulation2.chisquare$Simulation2

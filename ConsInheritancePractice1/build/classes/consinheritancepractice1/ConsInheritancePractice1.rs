@@ -1,0 +1,4 @@
+consinheritancepractice1.grandParent
+consinheritancepractice1.Parent
+consinheritancepractice1.Child
+consinheritancepractice1.ConsInheritancePractice1

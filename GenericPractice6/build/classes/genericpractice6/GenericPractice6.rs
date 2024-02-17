@@ -1,0 +1,2 @@
+genericpractice6.GenericPractice6
+genericpractice6.MyArray
