@@ -15,9 +15,9 @@ class MyFrame extends JFrame implements ActionListener{
 //       jtf.setBounds(10, 100, 40, 50);
        
         c1=new JCheckBox("Bold");
-//        c1.setMnemonic(KeyEvent.VK_B);
+        c1.setMnemonic(KeyEvent.VK_B);
         c2 =new JCheckBox("Italic");
-//        c2.setMnemonic(KeyEvent.VK_I);
+        c2.setMnemonic(KeyEvent.VK_I);
         c1.addActionListener(this);
         c2.addActionListener(this);
         
